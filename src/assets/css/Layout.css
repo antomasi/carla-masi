@@ -1,0 +1,8 @@
+.layout-container{
+    display: grid;
+    grid-template-rows: [header] min-content [main] auto [footer] min-content;
+}
+
+main {
+    margin-bottom: 3em;
+}
