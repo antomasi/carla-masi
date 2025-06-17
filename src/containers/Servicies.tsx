@@ -1,5 +1,5 @@
 import React from "react";
 
-export const Shop = () => {
+export const Servicies = () => {
   return <div>Cursos y Talleres</div>;
 };
